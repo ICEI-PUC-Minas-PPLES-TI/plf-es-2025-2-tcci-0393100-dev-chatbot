@@ -17,8 +17,10 @@ O chatbot será construído com apoio da **API oficial do WhatsApp (Cloud API da
 
 ## Professores responsáveis
 
-* **Professor** 
-* **Professor** 
+* **Cleiton Silva Tavares** 
+* **Danilo de Quadros Maia Filho**
+* **Leonardo Vilela Cardoso** 
+* **Raphael Ramos Dias Costa**
 
 ---
 
